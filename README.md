@@ -7,4 +7,4 @@
 - 💬 Contact: lightphenexx@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPUS-Lightphenexx&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPUS-Lightphenexx&repo=Python-Machine-Learning-Methods)](https://github.com/anuraghazra/github-readme-stats)
+
