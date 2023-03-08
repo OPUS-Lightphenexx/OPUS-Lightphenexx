@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on LaTex for my Homework and Python Machine learning
-- 🌱 I’m currently learning Math and Applied Mathmatics
+- 🌱 Learning Math and Applied Mathmatics
 - ⚡ Fun fact: Be sure to check out the game Called OPUS Echo of Starsong made by Sigono.
 - 💬 Contact: lightphenexx@outlook.com
 
