@@ -4,9 +4,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on LaTex for my Homework and Python Machine learning
+- 🔭 I’m currently working on LaTex for my Homework,Python Machine learning and MySQL Database
 - 🌱 Learning Math and Applied Mathmatics
-- ⚡ Fun fact: Be sure to check out the game Called OPUS Echo of Starsong made by Sigono.
+- ⚡ Fun fact: Be sure to check out the game Called OPUS Echo of Starsong made by Sigono
 - 🌏 Languages:I speak Two languages(Mandarin Chinese and English)
 - 💬 Contact: lightphenexx@outlook.com
 
