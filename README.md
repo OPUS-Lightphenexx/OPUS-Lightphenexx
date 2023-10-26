@@ -4,11 +4,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on LaTeX for my homework, Python Machine learning and MySQL Database
+- 🔭 I’m currently working on ScRNA Seq Analysis, NLP for Bioinformatics and AI For Science
 - 🌱 Learning Mathmatics and Applied Mathmatics
 - ⚡ Fun fact: Be sure to check out the game called OPUS Echo of Starsong made by SIGONO
 - 🌏 Languages: I speak two languages(Mandarin Chinese and English)
-- 💬 Contact: lightphenexx@outlook.com
+- 💬 Contact: lightphenexx@outlook.com, Feel free to contact me anytime to seek cooperation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPUS-Lightphenexx&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
